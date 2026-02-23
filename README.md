@@ -1,3 +1,3 @@
 # Servitor
 
-Phmst lic homemade W40K servitor bot
+Phmst lic homemade W40K servoskull
